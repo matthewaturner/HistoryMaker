@@ -2,9 +2,9 @@
 An app that I can run periodically to organize my music into playlists by month.
 
 ## Documentation Links
-[Spotify Web API](https://developer.spotify.com/documentation/web-api)
-[Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
-[Spotify PyPi SDK](https://pypi.org/project/spotify/)
+ - [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+ - [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
+ - [Spotify PyPi SDK](https://pypi.org/project/spotify/)
 
 ## Plan
 
