@@ -28,3 +28,5 @@ Lightweight flask app that runs a local website (flask app) with a very simple f
 Pros:
  - Hostable once you're done
  
+### Option 3 (new first choice)
+Use c# as the backend because it will speed up development. Learn react to create a frontend.
